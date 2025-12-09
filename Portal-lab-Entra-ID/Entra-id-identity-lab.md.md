@@ -20,6 +20,7 @@ Create users and groups in Microsoft Entra ID for a lab environment and assign t
 * Go to Azure Portal   
 * Search for Microsoft Entra ID   
 * Navigate to the Users and Groups sections
+  
 
 ![](/Portal-lab-Entra-ID/portal-labs/images/image001.png)
 
@@ -42,11 +43,15 @@ Create users and groups in Microsoft Entra ID for a lab environment and assign t
    * Job title: Lab Engineer
 
 5. Review and create.
+   
  ![](/Portal-lab-Entra-ID/portal-labs/images/image002.png) 
    * Repeat this for the required number of engineers.
 
+#
 
 
+
+#
 
 
 ## **Step 3: Create A Security Group**
@@ -61,7 +66,8 @@ Configure:
 * Group description: Group for Engineers managing lab VMs  
 * Membership type: Assigned
 
-3. Create the group 
+3. Create the group
+   
 
 ![](/Portal-lab-Entra-ID/portal-labs/images/image003.png)
 
@@ -76,11 +82,13 @@ Configure:
 
 1. Open the group.  
 2. Go to Members under the manage section.  
-3. Click Add members and select all the members you want to add.  
+3. Click Add members and select all the members you want to add.
+    
    ![](/Portal-lab-Entra-ID/portal-labs/images/image004.png)
 
 
-4. Click Select  
+5. Click Select
+   
    ![](/Portal-lab-Entra-ID/portal-labs/images/image005.png)
 
 #
@@ -92,10 +100,11 @@ Configure:
 ## **Step 5: Create A Virtual Machine**
 
 1. Search for and select Virtual Machines in the search bar  
-2. Select Create \- Virtual Machine  
+2. Select Create \- Virtual Machine
+   
    ![](/Portal-lab-Entra-ID/portal-labs/images/image006.png)
      
-3. Use the following basic settings:  
+4. Use the following basic settings:  
 * Resource group: rg-104  
 * VM name: vm-lab  
 * Region: West Europe  
