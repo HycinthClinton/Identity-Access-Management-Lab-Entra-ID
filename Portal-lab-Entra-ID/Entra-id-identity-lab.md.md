@@ -16,7 +16,7 @@ Create users and groups in Microsoft Entra ID for a lab environment and assign t
 * Search for Microsoft Entra ID   
 * Navigate to the Users and Groups sections
 
-![](Portal-lab-Entra-ID/portal-labs/images/image1.png)
+![Login page](images/image1.png)
 
 ### 
 
