@@ -39,6 +39,9 @@ Create users and groups in Microsoft Entra ID for a lab environment and assign t
    * Repeat this for the required number of engineers.
 
      
+### 
+
+### 
 
 ### **Step 3: Create A Security Group**
 
@@ -52,9 +55,11 @@ Configure:
 * Group description: Group for Engineers managing lab VMs  
 * Membership type: Assigned
 
-###      3\. Create the group 
+3. Create the group 
 
 ![](/Portal-lab-Entra-ID/portal-labs/images/image003.png)
+
+### 
 
 ### 
 
@@ -96,7 +101,9 @@ Configure:
 
 ![](/Portal-lab-Entra-ID/portal-labs/images/image008.png)
 
-## 
+### 
+
+###  
 
 ## **Step 6: Assign Permissions To The Group At The Resource Group Level**
 
@@ -115,6 +122,10 @@ To allow the engineering group to manage VMs:
 ![](/Portal-lab-Entra-ID/portal-labs/images/image10.png)
 
 6. Review and assign.
+
+### 
+
+### 
 
 ## **Conclusion**
 
