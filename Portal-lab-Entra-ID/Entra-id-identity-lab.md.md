@@ -37,7 +37,7 @@ Create users and groups in Microsoft Entra ID for a lab environment and assign t
 3. Select Create new user  
 4. Fill in basics like:
 
-   * User Principal Name: “Engineer1@clintonhycinthhotmail.onmicrosoft.com”  
+   * User Principal Name: “Engineer1 @clintonhycinthhotmail.onmicrosoft.com”  
    * Display name: Engineer1  
    * Password: auto-generate (recommended)  
    * Job title: Lab Engineer
