@@ -34,11 +34,11 @@ Create users and groups in Microsoft Entra ID for a lab environment and assign t
    * Password: auto-generate (recommended)  
    * Job title: Lab Engineer
 
-   ![](/Portal-lab-Entra-ID/portal-labs/images/image002.png) 
-
 5. Review and create.
-
+ ![](/Portal-lab-Entra-ID/portal-labs/images/image002.png) 
    * Repeat this for the required number of engineers.
+
+     
 
 ### **Step 3: Create A Security Group**
 
