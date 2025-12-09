@@ -29,16 +29,12 @@ Create users and groups in Microsoft Entra ID for a lab environment and assign t
 3. Select Create new user  
 4. Fill in basics like:
 
-   * User Principal Name: Example, “[labEngineer1@clintonhycinthhotmail.onmicrosoft.com](mailto:labEngineer1@clintonhycinthhotmail.onmicrosoft.com)”  
+   * User Principal Name: “[Engineer1@clintonhycinthhotmail.onmicrosoft.com]”  
    * Display name: Engineer1  
    * Password: auto-generate (recommended)  
    * Job title: Lab Engineer
 
-   ![][image2]
-
-   
-
-   
+   ![](/Portal-lab-Entra-ID/portal-labs/images/image2.png) 
 
 5. Review and create.
 
@@ -58,7 +54,7 @@ Configure:
 
 ###      3\. Create the group 
 
-![][image3]
+![](/Portal-lab-Entra-ID/portal-labs/images/image3.png)
 
 ### 
 
@@ -67,12 +63,11 @@ Configure:
 1. Open the group.  
 2. Go to Members under the manage section.  
 3. Click Add members and select all the members you want to add.  
-   ![][image4]  
- 
+   ![](/Portal-lab-Entra-ID/portal-labs/images/image4.png)
 
 
 4. Click Select  
-   ![][image5]
+   ![](/Portal-lab-Entra-ID/portal-labs/images/image5.png)
 
 ## 
 
@@ -84,7 +79,7 @@ Configure:
 
 1. Search for and select Virtual Machines in the search bar  
 2. Select Create \- Virtual Machine  
-   ![][image6]  
+   ![](/Portal-lab-Entra-ID/portal-labs/images/image6.png)
      
 3. Use the following basic settings:  
 * Resource group: rg-104  
@@ -95,11 +90,11 @@ Configure:
 * Security type: Standard  
 * Select Spot instance to reduce cost.
 
-![][image7]
+![](/Portal-lab-Entra-ID/portal-labs/images/image7.png)
 
 4. Review and create the VM.
 
-![][image8]
+![](/Portal-lab-Entra-ID/portal-labs/images/image8.png)
 
 ## 
 
@@ -112,12 +107,12 @@ To allow the engineering group to manage VMs:
 3. Click Add → Add role assignment.  
    
 
-![][image9]
+![](/Portal-lab-Entra-ID/portal-labs/images/image9.png)
 
 4. Choose a role like Virtual Machine Contributor or Contributor.  
 5. Select Members \- choose your group, Lab-VM-Engineers.
 
-![][image10]
+![](/Portal-lab-Entra-ID/portal-labs/images/image10.png)
 
 6. Review and assign.
 
