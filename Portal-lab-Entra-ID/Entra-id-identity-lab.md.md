@@ -1,9 +1,9 @@
-**Microsoft Entra ID Lab: User Provisioning, Group Management and VM Access Control**
+### **Microsoft Entra ID Lab: User Provisioning, Group Management and VM Access Control**
 
-**Objective:**  
+## **Objective:**  
 Create users and groups in Microsoft Entra ID for a lab environment and assign the group access to manage virtual machines.
 
-**Tools:** 
+## **Tools:** 
 
 * Azure Portal   
 * Micosoft Entra ID  
@@ -65,8 +65,11 @@ Configure:
 
 ![](/Portal-lab-Entra-ID/portal-labs/images/image003.png)
 
+#
 
 
+
+#
 
 
 ## **Step 4: Add Members Manually**
@@ -82,7 +85,7 @@ Configure:
 
 #
 
-#
+
 
 #
 
@@ -107,11 +110,11 @@ Configure:
 
 ![](/Portal-lab-Entra-ID/portal-labs/images/image008.png)
 
-##
+#
 
-##
 
-##
+
+#
 
 ## **Step 6: Assign Permissions To The Group At The Resource Group Level**
 
@@ -131,11 +134,11 @@ To allow the engineering group to manage VMs:
 
 6. Review and assign.
 
-##
+#
 
-##
 
-##
+
+#
 
 ## **Conclusion**
 
