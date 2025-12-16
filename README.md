@@ -25,7 +25,6 @@ This mirrors how real Azure admins learn and work.
 ### 1. Entra ID Identity & RBAC Lab
 
 **Manual Lab (Azure Portal)**  
-**Path:** `/entra-id-identity-manual/`
 
 Covers the full setup using the Azure Portal:
 - Entra ID users and security groups
