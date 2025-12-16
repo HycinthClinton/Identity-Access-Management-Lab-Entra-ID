@@ -18,8 +18,8 @@ The goal of this lab is to understand identity management, access control and ba
 - **entra-id-identity-lab.md** — clean markdown version   
 
 ## Next Steps
-I plan to automate this same lab using PowerShell.  
-The automated version will also be added to this repository.
+I also automated this same lab using PowerShell.  
+The automated version is added to this repository.
 
 ## About Me
 I am currently studying for the AZ-104 exam and documenting my hands-on progress as I learn.
